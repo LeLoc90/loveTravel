@@ -327,6 +327,10 @@
     .footer__title, .footer__input {
         width: 100%;
     }
+
+    .dest__item:active .dest__overlay {
+        opacity: 1;
+    }
 }
 
 /* Mobile */
