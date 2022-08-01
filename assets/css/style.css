@@ -499,32 +499,32 @@ transform: translateY(1px);
 
 .dest__europe {
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/Europe.jpg);
+    url(/loveTravel/assets/images/Europe.jpg);
 }
 
 .dest__thailandia {
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/thailandia.jpg);
+    url(/loveTravel/assets/images/thailandia.jpg);
 }
 
 .dest__asia {
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/asia.jpg);
+    url(/loveTravel/assets/images/asia.jpg);
 }
 
 .dest__italy {
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/italy.jpg);
+    url(/loveTravel/assets/images/italy.jpg);
 }
 
 .dest__netherlands{
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/netherlands.jpg);
+    url(/loveTravel/assets/images/netherlands.jpg);
 }
 
 .dest__usa {
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/united-states.jpg);
+    url(/loveTravel/assets/images/united-states.jpg);
 }
 
 .dest__item img { 
@@ -667,7 +667,7 @@ transform: translateY(1px);
     height: 204px;
     width: 100%;
     background: no-repeat center / cover
-    url(/Love-Travel/assets/images/parallax-search-2.jpg);
+    url(/loveTravel/assets/images/parallax-search-2.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -819,15 +819,15 @@ transform: translateY(1px);
 }
 
 .beaches__img-1 {
-    background: no-repeat center / cover url(/Love-Travel/assets/images/parallax-4.jpg) ;
+    background: no-repeat center / cover url(/loveTravel/assets/images/parallax-4.jpg) ;
 }
 
 .beaches__img-2 {
-    background: no-repeat center / cover url(/Love-Travel/assets/images/parallax-4-1.jpg) ;
+    background: no-repeat center / cover url(/loveTravel/assets/images/parallax-4-1.jpg) ;
 }
 
 .beaches__img-3 {
-    background: no-repeat center / cover url(/Love-Travel/assets/images/package-3.jpg) ;
+    background: no-repeat center / cover url(/loveTravel/assets/images/package-3.jpg) ;
 }
 
 .beaches__wrap-time {
@@ -929,12 +929,12 @@ transform: translateY(1px);
 
 .discover__img-1 {
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/parallax-5-filter.jpg);
+    url(/loveTravel/assets/images/parallax-5-filter.jpg);
 }
 
 .discover__img-2 {
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/parallax-6-filter.jpg);
+    url(/loveTravel/assets/images/parallax-6-filter.jpg);
 }
 
 .discover__item {
@@ -1006,17 +1006,17 @@ transform: translateY(1px);
 
 .--item-img-1 {
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/package-1-1024x640.jpg);
+    url(/loveTravel/assets/images/package-1-1024x640.jpg);
 }
 
 .--item-img-2 {
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/package-6-1024x640.jpg);
+    url(/loveTravel/assets/images/package-6-1024x640.jpg);
 }
 
 .--item-img-3 {
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/package-2-1024x640.jpg);
+    url(/loveTravel/assets/images/package-2-1024x640.jpg);
 }
 
 .promotion__item-sticker-1,
@@ -1140,7 +1140,7 @@ transform: translateY(1px);
 footer {
     margin-top: 60px;
     background: no-repeat center / cover 
-    url(/Love-Travel/assets/images/parallax-7.jpg);
+    url(/loveTravel/assets/images/parallax-7.jpg);
     width: 100%;
     padding-top: 38%;
     position: relative;
