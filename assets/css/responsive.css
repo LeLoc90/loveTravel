@@ -551,4 +551,8 @@
         display: block;
         margin-bottom: 40px;
     }
+
+    .promotion-text::after {
+        bottom: 11px;
+    }
 }
