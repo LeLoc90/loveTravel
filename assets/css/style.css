@@ -498,8 +498,7 @@ transform: translateY(1px);
 }
 
 .dest__europe {
-    background: no-repeat center / cover
-    url(/loveTravel/assets/images/Europe.jpg);
+    background: no-repeat center / cover url(/loveTravel/assets/images/Europe.jpg);
 }
 
 .dest__thailandia {
