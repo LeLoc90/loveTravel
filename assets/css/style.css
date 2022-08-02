@@ -66,6 +66,7 @@ body {
 
 .sub-menu__text::after {
     background-color: #ffd105;
+    height: 3px;
 }
 .dest-text::after {
     background-color: #1bbc9b;
