@@ -212,15 +212,21 @@ justify-content: space-between;
 align-items: center;
 }
 
+.subnav__item:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+}
+
 .subnav__item:last-child {
-border-bottom: none;
+    border-bottom: none;
 }
 
 .subnav__link {
-text-decoration: none;
-color: var(--primary-text-color);
-font-size: 15px;
-letter-spacing: 2px;
+    text-decoration: none;
+    color: var(--primary-text-color);
+    font-size: 15px;
+    letter-spacing: 2px;
+    width: 100%;
 }
 
 .subnav__item span {
