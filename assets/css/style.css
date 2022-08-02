@@ -193,6 +193,16 @@ display: none;
 display: block;
 }
 
+.--subnav__after::after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: -24px;
+    background-color: transparent;
+    width: 24px;
+    height: 100%;
+}
+
 .subnav__item {
 position: relative;
 padding: 12px 24px;
