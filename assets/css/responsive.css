@@ -339,6 +339,10 @@
         display: none;
     }
 
+    .title__text {
+        font-size: 32px;
+    }
+
     .theme__container {
         height: 600px;
         background-position: -1174px -191px;
@@ -404,13 +408,6 @@
 
     .holiday__choose-item span {
         font-size: 14px;
-    }
-
-    .dest-text, .promotion-text {
-        font-size: 32px;
-    }
-    .dest-text::after {
-        bottom: 12px;
     }
 
     .dest__item-flex {

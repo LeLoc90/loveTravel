@@ -44,8 +44,12 @@ body {
 
 .title__text {
     color: var(--primary-text-color-2);
-    position: relative;
     display: inline-block;
+    font-size: 40px;
+}
+
+.--title__text-underline {
+    position: relative;
 }
 
 .--title__text-underline:after {
@@ -55,44 +59,29 @@ body {
     height: 4px;
     position: absolute;
     right: 0;
+    bottom: 10px;
     border-radius: 24%;
-}
-
-.sub-menu__text {
-    font-size: 25px;
+    width: 100%;
 }
 
 .sub-menu__text::after {
     background-color: #ffd105;
-    width: 100%;
-    bottom: 9px;
 }
-
-.dest-text,
-.promotion-text {
-    font-size: 40px;
-}
-
 .dest-text::after {
     background-color: #1bbc9b;
-    width: 75%;
-    bottom: 16px;
 }
-
+.beaches-text::after {
+    background-color: #14b9d5;
+}
+.holiday-text::after {
+    background-color: #e66874;
+}
 .promotion-text::after {
     background-color: #1bbc9b;
-    width: 70%;
-    bottom: 16px;
 }
 
-.beaches-text {
-    font-size: 32px;
-}
-
-.beaches-text::after {
-    width: 49%;
-    bottom: 11px;
-    background-color: #14b9d5;
+.sub-menu__text {
+    font-size: 25px;
 }
 
 .theme__container {
@@ -682,6 +671,7 @@ transform: translateY(1px);
     align-items: center;
 }
 
+
 .next-holiday > * {
     width: 32%;
 }
@@ -694,21 +684,7 @@ transform: translateY(1px);
 }
 
 .next-holiday__text-2 {
-    position: relative;
     display: inline;
-}
-
-.next-holiday__text-2::after {
-    content: "";
-    display: block;
-    background-color: #f76570;
-    opacity: 0.9;
-    width: 60%;
-    height: 5px;
-    position: absolute;
-    right: 0;
-    bottom: 12px;
-    border-radius: 24%;
 }
 
 .next-holiday__btn-wrap {
